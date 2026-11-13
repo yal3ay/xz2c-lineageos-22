@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": 1794568109,
-      "filename": "lineage-22.2-20261113-r7-UNOFFICIAL-xz2c_dcm-ota.zip",
-      "id": "5f87fb79ab15793634530023f91e340c0b770b339db297dc03f00180ed4789af",
+      "datetime": 1794204548,
+      "filename": "lineage-22.2-20261109-UNOFFICIAL-xz2c_dcm-ota.zip",
+      "id": "e27057698e9174478b83ad38aaf47c53c9ce9a73095be28b89363ebcf3af0962",
       "romtype": "UNOFFICIAL",
-      "size": 1121188322,
-      "url": "https://github.com/yal3ay/xz2c-lineageos-22/releases/download/22.2-20261113-r7/lineage-22.2-20261113-r7-UNOFFICIAL-xz2c_dcm-ota.zip",
+      "size": 1041040540,
+      "url": "https://github.com/yal3ay/xz2c-lineageos-22/releases/download/22.2-20261109-r4/lineage-22.2-20261109-UNOFFICIAL-xz2c_dcm-ota.zip",
       "version": "22.2"
     }
   ]
